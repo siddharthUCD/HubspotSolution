@@ -1,0 +1,15 @@
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.exe
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.deps.json
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.runtimeconfig.json
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.runtimeconfig.dev.json
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.dll
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Hubspot-Internship-Code.pdb
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.csproj.AssemblyReference.cache
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.AssemblyInfoInputs.cache
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.AssemblyInfo.cs
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.csproj.CoreCompileInputs.cache
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.dll
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.pdb
+C:\UCD\Internship Codes\HubSpot\Hubspot-Internship-Code\Hubspot-Internship-Code\obj\Debug\netcoreapp3.1\Hubspot-Internship-Code.genruntimeconfig.cache
