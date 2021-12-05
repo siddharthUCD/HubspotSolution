@@ -15,7 +15,7 @@ namespace Hubspot_Internship_Code
 
         static async Task Main(string[] args)
         {
-            string ApiKey = "3693c6667cc824cc339e03c5f8da";
+            string ApiKey = "";
             string GetURL = "https://candidate.hubteam.com/candidateTest/v3/problem/dataset?userKey=" + ApiKey;
             string PostURL = "https://candidate.hubteam.com/candidateTest/v3/problem/result?userKey=" + ApiKey;
             Program Main = new Program();

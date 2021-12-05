@@ -2653,11 +2653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UCD\\Internship Codes\\HubSpot\\Hubspot-Internship-Code\\Hubspot-Internship-Code\\Hubspot-Internship-Code.csproj",
+      "projectUniqueName": "C:\\UCD\\Internship Codes\\HubSpot\\RepoCode\\HubspotSolution\\Hubspot-Internship-Code\\Hubspot-Internship-Code.csproj",
       "projectName": "Hubspot-Internship-Code",
-      "projectPath": "C:\\UCD\\Internship Codes\\HubSpot\\Hubspot-Internship-Code\\Hubspot-Internship-Code\\Hubspot-Internship-Code.csproj",
+      "projectPath": "C:\\UCD\\Internship Codes\\HubSpot\\RepoCode\\HubspotSolution\\Hubspot-Internship-Code\\Hubspot-Internship-Code.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\UCD\\Internship Codes\\HubSpot\\Hubspot-Internship-Code\\Hubspot-Internship-Code\\obj\\",
+      "outputPath": "C:\\UCD\\Internship Codes\\HubSpot\\RepoCode\\HubspotSolution\\Hubspot-Internship-Code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
